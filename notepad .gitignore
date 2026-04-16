@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# 输出结果
+outputs/
+
+# 本地数据（隐私）
+resume.txt
+jd.txt
+jds/
